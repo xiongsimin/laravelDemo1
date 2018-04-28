@@ -1,1 +1,4 @@
-* text=laravel
+* text=auto
+*.less linguist-language=laravel
+*.html linguist-language=laravel
+*.php linguist-language=laravel
